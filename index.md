@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "University Of Manchester"  # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Software Carpentry workshop - University Of Manchester"  # brief name of host site without address (e.g., "Euphoric State University")
 address: "Room 3.214, Univeristy Place, Wilmslow Road, Manchester"   # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: gb      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -46,10 +46,10 @@ eventbrite: 45644941248          # optional: alphanumeric key for Eventbrite reg
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
+<h4>This workshop has been organised for the Doctoral Training Program in Data Intensive Science
+in the Physics & Astronomy department at the University Of Manchester.
+Any extra places will be available on a first-come first-served basis.
+</h4>
 
 <h2 id="general">General Information</h2>
 
