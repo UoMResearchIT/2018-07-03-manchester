@@ -37,6 +37,7 @@ workshop_site: "https://uomresearchit.github.io/2018-07-03-manchester"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
 gc_pages: "https://gcapes.github.io"
+uom_pages: "https://uomresearchit.github.io"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
